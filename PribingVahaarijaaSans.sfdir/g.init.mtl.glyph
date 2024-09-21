@@ -1,0 +1,25 @@
+StartChar: g.init.mtl
+Encoding: 65572 -1 57
+Width: 540
+Flags: W
+HStem: -33 66<150 540> 409 66<85 342>
+AnchorPoint: "below" 275 -40 basechar 0
+AnchorPoint: "above" 275 481 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+540 33 m 1
+ 570 0 l 5
+ 540 -33 l 1
+ 71 -33 l 1
+ 71 28 l 1
+ 342 409 l 1
+ 85 409 l 1
+ 85 475 l 1
+ 421 475 l 1
+ 421 414 l 1
+ 150 33 l 1
+ 540 33 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,22 @@
+StartChar: J
+Encoding: 74 74 3
+Width: 300
+Flags: W
+HStem: 209 78<112 188>
+VStem: 112 76<209 287>
+LayerCount: 2
+Back
+SplineSet
+0 416 m 29
+ 263 416 l 22
+ 323 416 359 387.239257812 359 342 c 7
+ 359 267 308 228 233 228 c 7
+ 140 228 74 317 74 414 c 7
+ 74 504.049804688 134 624 296 624 c 6
+ 450 624 l 1053
+EndSplineSet
+Fore
+Refer: 181 65 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "tolower-1" j
+EndChar

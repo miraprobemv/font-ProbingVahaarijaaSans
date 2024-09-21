@@ -1,0 +1,45 @@
+StartChar: uni0242.init
+Encoding: 65701 -1 229
+Width: 510
+Flags: W
+HStem: 187 66<273 510> 315 47<213 273> 614 66<170.12 307.115>
+VStem: 71 60<423.428 573.005> 213 60<253 362> 349 60<419.808 571.915>
+AnchorPoint: "above" 240 681 basechar 0
+AnchorPoint: "below" 249 180 basechar 0
+LayerCount: 2
+Back
+SplineSet
+213 442 m 5
+ 273 442 l 5
+ 273 253 l 5
+ 510 253 l 5
+ 540 220 l 5
+ 510 187 l 5
+ 213 187 l 5
+ 213 442 l 5
+EndSplineSet
+Fore
+SplineSet
+349 500 m 0
+ 349 567 306 614 237 614 c 0
+ 179 614 131 576 131 496 c 0
+ 131 423 181 381 241 381 c 0
+ 306 381 349 415 349 500 c 0
+238 680 m 0
+ 321 680 409 624 409 500 c 0
+ 409 360 318 315 240 315 c 0
+ 177 315 71 371 71 496 c 0
+ 71 632 165 680 238 680 c 0
+213 362 m 1
+ 273 362 l 1
+ 273 253 l 1
+ 510 253 l 1
+ 540 220 l 1
+ 510 187 l 1
+ 213 187 l 1
+ 213 362 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "mtl-1" uni0242.init.mtl
+Substitution2: "toh-1" uni0242.init.toh
+EndChar

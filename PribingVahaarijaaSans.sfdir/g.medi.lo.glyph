@@ -1,0 +1,40 @@
+StartChar: g.medi.lo
+Encoding: 65573 -1 58
+Width: 570
+Flags: W
+HStem: -33 66<0 198.791 301.66 570> 264 66<116 363> 264 22<116 240>
+AnchorPoint: "below" 275 -40 basechar 0
+AnchorPoint: "above" 276 336 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+102 33 m 1x80
+ 180 33 212 54 236 88 c 1
+ 258 52 l 1
+ 234 0 183 -33 101 -33 c 1
+ 0 -33 l 1
+ -30 0 l 25
+ 0 33 l 1
+ 102 33 l 1x80
+570 33 m 1
+ 600 0 l 1
+ 570 -33 l 1
+ 342 -33 l 1
+ 293 -33 255 -13 243 31 c 1
+ 219 64 l 1
+ 363 264 l 1
+ 116 264 l 1
+ 116 330 l 1
+ 442 330 l 1xc0
+ 442 269 l 1
+ 297 68 l 1
+ 302 39 321 33 352 33 c 1
+ 570 33 l 1
+232 24 m 1
+ 102 33 l 1
+ 260 39 252 220 116 232 c 1
+ 116 286 l 1xa0
+ 240 288 328 196 232 24 c 1
+EndSplineSet
+Validated: 37
+EndChar

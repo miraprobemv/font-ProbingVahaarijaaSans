@@ -1,0 +1,30 @@
+StartChar: b.medi.fml
+Encoding: 65539 -1 16
+Width: 490
+Flags: W
+HStem: 187 66<281 490> 413 66<160.863 225.35>
+VStem: 235 60<-40 187 253 406.891> 281 14<187 253>
+AnchorPoint: "below" 264 -40 basechar 0
+AnchorPoint: "above" 185 481 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+281 187 m 1xd0
+ 281 253 l 1
+ 490 253 l 1
+ 520 220 l 1
+ 490 187 l 1
+ 281 187 l 1xd0
+198 479 m 4
+ 279 479 295 414 295 326 c 6
+ 295 -40 l 5
+ 235 -40 l 5
+ 235 316 l 6xe0
+ 235 394 219 413 195 413 c 4
+ 172 413 157 399 0 170 c 5
+ -20 170 l 29
+ 0 278 l 5
+ 105 429 130 479 198 479 c 4
+EndSplineSet
+Validated: 5
+EndChar

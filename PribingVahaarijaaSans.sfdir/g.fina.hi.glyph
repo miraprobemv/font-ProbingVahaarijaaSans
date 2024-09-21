@@ -1,0 +1,31 @@
+StartChar: g.fina.hi
+Encoding: 65576 -1 61
+Width: 420
+Flags: W
+HStem: 409 66<0 129.292> 506 21G<186.5 204> 732 66<75 322>
+AnchorPoint: "below" 255 403 basechar 0
+AnchorPoint: "above" 255 804 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+204 519 m 1
+ 149 506 l 1
+ 224 605 164 672 75 700 c 1
+ 75 751 l 1
+ 179 729 290 652 204 519 c 1
+166 530 m 2
+ 322 732 l 1
+ 75 732 l 1
+ 75 798 l 1
+ 401 798 l 1
+ 401 737 l 1
+ 227 510 l 2
+ 186.3984375 456.331054688 145.412109375 409 31 409 c 2
+ 0 409 l 1
+ -30 442 l 25
+ 0 475 l 1
+ 32 475 l 1
+ 110 475 141.303710938 497.545898438 166 530 c 2
+EndSplineSet
+Validated: 37
+EndChar

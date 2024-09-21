@@ -1,0 +1,40 @@
+StartChar: c
+Encoding: 99 99 20
+Width: 510
+Flags: W
+HStem: -40 66<179.755 317.044> 409 66<86 358>
+VStem: 78 60<66.3056 242.195> 92 64<138.78 243> 358 60<73.1137 409>
+AnchorPoint: "below" 254 -40 basechar 0
+AnchorPoint: "above" 245 481 basechar 0
+LayerCount: 2
+Back
+SplineSet
+86 442 m 5
+ 358 442 l 5
+ 358 179 l 5
+ 358 52 305 0 219 0 c 7
+ 140 0 88 55 88 116 c 7
+ 88 176 101 218 121 264 c 1029
+EndSplineSet
+Fore
+SplineSet
+156 243 m 25xd8
+ 156 233 l 1xd8
+ 147.40625 208 138 175.052734375 138 137 c 3
+ 138 66 187 26 254 26 c 3
+ 329 26 358 89 358 172 c 2
+ 358 409 l 1
+ 86 409 l 1
+ 86 475 l 1
+ 418 475 l 1
+ 418 179 l 2
+ 418 44 364 -40 250 -40 c 3
+ 149 -40 78 26 78 136 c 3xe8
+ 78 179.046875 83 212 92 243 c 1
+ 156 243 l 25xd8
+EndSplineSet
+Validated: 1
+Substitution2: "fina-1" c.fina
+Substitution2: "medi-1" c.medi
+Substitution2: "init-1" c.init
+EndChar

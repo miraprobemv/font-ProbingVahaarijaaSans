@@ -1,0 +1,30 @@
+StartChar: b.fina
+Encoding: 65538 -1 15
+Width: 480
+Flags: W
+HStem: -33 66<231 457> 187 66<0 175.817>
+VStem: 185 60<-230 -33 33 176.131> 231 14<-33 33>
+AnchorPoint: "above" 125 259 basechar 0
+AnchorPoint: "below" 214 -230 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 187 m 1xe0
+ -30 220 l 1
+ 0 253 l 1
+ 121 253 l 2
+ 212.16796875 253 245 206.963867188 245 124 c 2
+ 245 -230 l 5
+ 185 -230 l 5
+ 185 114 l 2
+ 185 172.166015625 171.81640625 187 111 187 c 2
+ 0 187 l 1xe0
+231 -33 m 1xd0
+ 231 33 l 1
+ 457 33 l 1
+ 457 -33 l 1
+ 231 -33 l 1xd0
+EndSplineSet
+Validated: 5
+Substitution2: "htm-1" b.fina.htm
+EndChar

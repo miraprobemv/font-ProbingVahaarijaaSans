@@ -1,0 +1,20 @@
+StartChar: o.mark
+Encoding: 65716 -1 244
+Width: 0
+Flags: W
+HStem: -220 126
+VStem: -108 206
+AnchorPoint: "below" 0 -40 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-65 -220 m 5
+ -108 -220 l 5
+ -108 -210 l 5
+ 12 -94 l 5
+ 98 -94 l 21
+ 98 -113 l 5
+ -65 -220 l 5
+EndSplineSet
+Validated: 1
+EndChar

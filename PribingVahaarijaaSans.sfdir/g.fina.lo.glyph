@@ -1,0 +1,31 @@
+StartChar: g.fina.lo
+Encoding: 65575 -1 60
+Width: 430
+Flags: W
+HStem: -33 66<0 162.034> 232 98<77 215> 264 66<77 324>
+AnchorPoint: "below" 235 -40 basechar 0
+AnchorPoint: "above" 257 336 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+196 88 m 2xa0
+ 324 264 l 1
+ 77 264 l 1xa0
+ 77 330 l 1xc0
+ 403 330 l 1
+ 403 269 l 1
+ 257 68 l 2
+ 217.711914062 13.3740234375 175.412109375 -33 61 -33 c 2
+ 0 -33 l 1
+ -30 0 l 25
+ 0 33 l 1
+ 62 33 l 1
+ 140 33 172.197265625 54.900390625 196 88 c 2xa0
+190 19 m 1
+ 62 33 l 1
+ 225 33 215 232 77 232 c 1xc0
+ 77 276 l 1
+ 209 294 288 168 190 19 c 1
+EndSplineSet
+Validated: 37
+EndChar

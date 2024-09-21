@@ -1,0 +1,54 @@
+StartChar: uni0242.medi
+Encoding: 65702 -1 230
+Width: 640
+Flags: W
+HStem: 0 247<263 344> 181 40<263 323> 187 66<0 0 231 368.341 529.98 640> 480 66<220.12 357.115>
+VStem: 121 60<289.428 439.005> 263 60<71 221> 399 60<285.808 437.915>
+AnchorPoint: "below" 299 -7 basechar 0
+AnchorPoint: "above" 290 547 basechar 0
+LayerCount: 2
+Back
+SplineSet
+263 301 m 5
+ 323 301 l 5
+ 323 71 l 5
+ 419 209 514 253 640 253 c 5
+ 670 220 l 5
+ 640 187 l 5
+ 534.307692308 187 443 140 344 0 c 5
+ 263 0 l 5
+ 263 301 l 5
+EndSplineSet
+Fore
+SplineSet
+263 221 m 5x5e
+ 323 221 l 5x5e
+ 323 71 l 5
+ 419 209 514 253 640 253 c 5
+ 670 220 l 5
+ 640 187 l 5x3e
+ 534.307692308 187 443 140 344 0 c 5
+ 263 0 l 5x9e
+ 263 221 l 5x5e
+0 253 m 1x3e
+ 228 253 l 1
+ 274 187 l 1
+ 0 187 l 1
+ -30 220 l 1
+ 0 253 l 1x3e
+399 366 m 0
+ 399 433 356 480 287 480 c 0
+ 229 480 181 442 181 362 c 0
+ 181 289 231 247 291 247 c 0x9e
+ 356 247 399 281 399 366 c 0
+288 546 m 0
+ 371 546 459 490 459 366 c 0
+ 459 226 368 181 290 181 c 0x5e
+ 227 181 121 237 121 362 c 0
+ 121 498 215 546 288 546 c 0
+EndSplineSet
+Validated: 5
+Substitution2: "htm-1" uni0242.medi.htm
+Substitution2: "mtl-1" uni0242.medi.mtl
+Substitution2: "fml-1" uni0242.medi.fml
+EndChar

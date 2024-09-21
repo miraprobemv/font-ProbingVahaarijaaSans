@@ -1,0 +1,43 @@
+StartChar: b.medi
+Encoding: 65537 -1 14
+Width: 600
+Flags: W
+HStem: 187 66<0 104.255 391 600> 413 66<267.94 335.495>
+VStem: 345 60<-40 187 253 406.891> 391 14<187 253>
+AnchorPoint: "above" 295 481 basechar 0
+AnchorPoint: "below" 374 -40 basechar 0
+LayerCount: 2
+Back
+SplineSet
+0 220 m 5
+ 57 220 90.6147728768 265.097240666 116 334 c 4
+ 144 410 182.790039062 476 221 476 c 7
+ 259.052734375 476 275 452 275 346 c 13
+ 275 -74 l 1053
+EndSplineSet
+Fore
+SplineSet
+391 187 m 5xd0
+ 391 253 l 5
+ 600 253 l 5
+ 630 220 l 5
+ 600 187 l 5
+ 391 187 l 5xd0
+0 187 m 1
+ -30 219 l 1
+ 0 253 l 1
+ 81 253 114.72297519 264.99981171 159 340 c 0
+ 201.505837105 412 236 479 308 479 c 0
+ 389 479 405 414 405 326 c 2
+ 405 -40 l 1
+ 345 -40 l 1
+ 345 316 l 2xe0
+ 345 394 331 413 301 413 c 0
+ 274 413 235.921875 351.045898438 216 317 c 0
+ 149.879882812 204 116 187 0 187 c 1
+EndSplineSet
+Validated: 5
+Substitution2: "htm-1" b.medi.htm
+Substitution2: "fml-1" b.medi.fml
+Substitution2: "mtl-1" b.medi.mtl
+EndChar

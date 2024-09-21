@@ -1,0 +1,32 @@
+StartChar: r.medi
+Encoding: 65624 -1 115
+Width: 850
+Flags: W
+HStem: 187 66<0 0 740.136 850> 205 49<271 370> 414 66<176.735 353.452>
+VStem: 102 60<300.596 397.947>
+AnchorPoint: "below" 314 178 basechar 0
+AnchorPoint: "above" 265 480 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+850 253 m 1xb0
+ 880 220 l 1
+ 850 187 l 1xb0
+ 602 187 449 414 241 414 c 3
+ 189.919921875 414 162 392.772460938 162 345 c 3
+ 162 274 272 263 370 254 c 1
+ 370 205 l 0x70
+ 271 208.293945312 102 227.935546875 102 352 c 3
+ 102 434.025390625 163.994140625 480 239 480 c 3
+ 471 480 642 253 850 253 c 1xb0
+0 187 m 1
+ -30 220 l 1
+ 0 253 l 1xb0
+ 112 253 263 254 370 254 c 1x70
+ 370 188 l 1
+ 254 188 121 187 0 187 c 1
+EndSplineSet
+Validated: 5
+Substitution2: "mth-1" r.medi.mth
+Substitution2: "ltm-1" r.medi.ltm
+EndChar

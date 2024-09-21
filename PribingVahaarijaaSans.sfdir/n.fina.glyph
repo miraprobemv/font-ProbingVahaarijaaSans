@@ -1,0 +1,30 @@
+StartChar: n.fina
+Encoding: 65608 -1 97
+Width: 510
+Flags: W
+HStem: -40 66<230.276 361.095> 187 66<0 353.946> 461 20G<142 202>
+VStem: 142 60<54.5114 481> 387 60<50.4907 159.046>
+AnchorPoint: "below" 304 -40 basechar 0
+AnchorPoint: "above" 255 481 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+232 187 m 2
+ 0 187 l 1
+ -30 221 l 1
+ 0 253 l 1
+ 237 253 l 2
+ 391 253 447 202.005208192 447 106 c 3
+ 447 29.8193359375 393.984375 -40 295 -40 c 0
+ 199.19921875 -40 142 13.318359375 142 106 c 2
+ 142 481 l 1
+ 202 481 l 1
+ 202 112 l 2
+ 202 55.412109375 244.333007812 26 298 26 c 0
+ 353.046875 26 387 60.6240234375 387 103 c 3
+ 387 159.675085314 352 187 232 187 c 2
+EndSplineSet
+Validated: 5
+Substitution2: "hi-1" n.fina.hi
+Substitution2: "lo-1" n.fina.lo
+EndChar

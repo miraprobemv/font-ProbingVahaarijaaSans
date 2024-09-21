@@ -1,0 +1,42 @@
+StartChar: g.medi
+Encoding: 65569 -1 54
+Width: 570
+Flags: W
+HStem: 187 66<0 198.791 301.66 570> 288 20G<224 248.222> 486 66<108 355> 486 22<108 232>
+AnchorPoint: "below" 265 181 basechar 0
+AnchorPoint: "above" 268 558 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+102 253 m 1xc0
+ 180 253 212 274 236 308 c 1
+ 258 272 l 1
+ 234 220 183 187 101 187 c 1
+ 0 187 l 1
+ -30 220 l 25
+ 0 253 l 1
+ 102 253 l 1xc0
+570 253 m 1
+ 600 220 l 1
+ 570 187 l 1
+ 342 187 l 1
+ 293 187 255 207 243 251 c 1
+ 219 284 l 1
+ 355 486 l 1
+ 108 486 l 1
+ 108 552 l 1
+ 434 552 l 1xe0
+ 434 491 l 1
+ 297 288 l 1
+ 302 259 321 253 352 253 c 1
+ 570 253 l 1
+232 244 m 1
+ 102 253 l 1
+ 260 259 244 442 108 454 c 1
+ 108 508 l 1xd0
+ 232 510 328 416 232 244 c 1
+EndSplineSet
+Validated: 37
+Substitution2: "hi-1" g.medi.hi
+Substitution2: "lo-1" g.medi.lo
+EndChar

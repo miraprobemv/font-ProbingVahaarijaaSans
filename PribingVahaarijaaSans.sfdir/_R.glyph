@@ -1,0 +1,21 @@
+StartChar: R
+Encoding: 82 82 2
+Width: 300
+Flags: W
+HStem: 209 78<112 188>
+VStem: 112 76<209 287>
+LayerCount: 2
+Back
+SplineSet
+610 416 m 29
+ 306 416 l 18
+ 174 416 92 334.018180316 92 224 c 3
+ 92 101 170 34 258 -30 c 1033
+0 -5 m 24
+ 86 -5 181 -5 220 -5 c 1024
+EndSplineSet
+Fore
+Refer: 181 65 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "tolower-1" r
+EndChar

@@ -1,0 +1,27 @@
+StartChar: g
+Encoding: 103 103 43
+Width: 540
+Flags: W
+HStem: -33 66<150 468> 409 66<85 342>
+AnchorPoint: "below" 275 -40 basechar 0
+AnchorPoint: "above" 275 481 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+468 33 m 1
+ 468 -33 l 1
+ 71 -33 l 1
+ 71 28 l 1
+ 342 409 l 1
+ 85 409 l 1
+ 85 475 l 1
+ 421 475 l 1
+ 421 414 l 1
+ 150 33 l 1
+ 468 33 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "fina-1" g.fina
+Substitution2: "medi-1" g.medi
+Substitution2: "init-1" g.init
+EndChar

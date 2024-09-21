@@ -1,0 +1,29 @@
+StartChar: i.mark.long
+Encoding: 65715 -1 243
+Width: 0
+Flags: W
+HStem: -216 146<-130 -75 0 55> -216 55<-75 0 55 156>
+VStem: -130 55<-161 -70> 0 55<-161 -70>
+AnchorPoint: "below" 0 -40 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 -70 m 5xb0
+ 55 -70 l 13xb0
+ 55 -161 l 29
+ 156 -161 l 29
+ 156 -216 l 29x70
+ 0 -216 l 29
+ 0 -70 l 5xb0
+-130 -70 m 5
+ -75 -70 l 13xb0
+ -75 -161 l 29
+ 26 -161 l 5x70
+ 0 -216 l 29
+ -130 -216 l 5
+ -130 -70 l 5
+EndSplineSet
+Validated: 5
+LCarets2: 1 0
+Ligature2: "long-vowel-1" i.mark i
+EndChar

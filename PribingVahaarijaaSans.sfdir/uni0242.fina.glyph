@@ -1,0 +1,36 @@
+StartChar: uni0242.fina
+Encoding: 65703 -1 231
+Width: 530
+Flags: W
+HStem: 187 66<0 0 258.568 368.341> 187 13<263 323> 480 66<220.12 357.115>
+VStem: 121 60<289.428 439.005> 263 60<-40 187> 399 60<285.808 437.915>
+AnchorPoint: "above" 290 547 basechar 0
+AnchorPoint: "below" 293 -41 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+399 366 m 0x3c
+ 399 433 356 480 287 480 c 0
+ 229 480 181 442 181 362 c 0
+ 181 289 231 247 291 247 c 0
+ 356 247 399 281 399 366 c 0x3c
+288 546 m 0
+ 371 546 459 490 459 366 c 0
+ 459 226 368 181 290 181 c 0
+ 227 181 121 237 121 362 c 0
+ 121 498 215 546 288 546 c 0
+0 253 m 1xbc
+ 228 253 l 1
+ 274 187 l 1
+ 0 187 l 1
+ -30 220 l 1
+ 0 253 l 1xbc
+263 200 m 5x7c
+ 323 200 l 5
+ 323 -40 l 5
+ 263 -40 l 5
+ 263 200 l 5x7c
+EndSplineSet
+Validated: 5
+Substitution2: "htm-1" uni0242.fina.htm
+EndChar

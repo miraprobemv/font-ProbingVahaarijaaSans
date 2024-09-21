@@ -1,0 +1,493 @@
+SplineFontDB: 3.2
+FontName: ProbingVahaarijaaSans
+FullName: Probing Vahaarijaa Sans
+FamilyName: ProbingVahaarijaaSans
+Weight: Regular
+Copyright: Copyright (c) 2024, Mira, the Multiverse Probe
+UComments: "2024-3-2: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 790
+Descent: 234
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 1014 924440473 28150]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1709390350
+ModificationTime: 1712453150
+PfmFamily: 33
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 400
+VLineGap: 92
+OS2TypoAscent: 200
+OS2TypoAOffset: 1
+OS2TypoDescent: -200
+OS2TypoDOffset: 1
+OS2TypoLinegap: 200
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 200
+HheadAOffset: 1
+HheadDescent: -200
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "tolower" { "tolower-1"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 5 0 0 "decapitalize" { "decapitalize-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "vowel" { "vowel-1" ("mark") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 5 0 0 "vowel-to-mark" { "vowel-to-mark-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "long-vowel" { "long-vowel-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "long-base" { "long-base-1"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "long-direct" { "long-direct-1" ("mark.long") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 5 0 0 "long-vowel-direct" { "long-vowel-direct-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "break-bowel" { "break-bowel-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "init" { "init-1" ("init") } ['init' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "medi" { "medi-1" ("medi") } ['medi' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "fina" { "fina-1" ("fina") } ['fina' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "toh" { "toh-1" ("toh") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "fml" { "fml-1" ("fml") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "tol" { "tol-1" ("tol") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "fmh" { "fmh-1" ("fmh") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "mtl" { "mtl-1" ("mtl") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "ltm" { "ltm-1" ("ltm") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "mth" { "mth-1" ("mth") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "htm" { "htm-1" ("htm") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "lo" { "lo-1" ("lo") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "hi" { "hi-1" ("hi") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 8 0 "calt" { "calt-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 5 8 0 "calt-init" { "calt-init-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 8 0 "calt-highlow" { "calt-highlow-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "mark" { "mark-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ContextSub2: glyph "long-vowel-direct-1" 0 0 0 4
+ String: 3 a a
+ BString: 0 
+ FString: 0 
+ 2
+  SeqLookup: 0 "long-base"
+  SeqLookup: 1 "long-direct"
+ String: 3 e e
+ BString: 0 
+ FString: 0 
+ 2
+  SeqLookup: 0 "long-base"
+  SeqLookup: 1 "long-direct"
+ String: 3 i i
+ BString: 0 
+ FString: 0 
+ 2
+  SeqLookup: 0 "long-base"
+  SeqLookup: 1 "long-direct"
+ String: 3 o o
+ BString: 0 
+ FString: 0 
+ 2
+  SeqLookup: 0 "long-base"
+  SeqLookup: 1 "long-direct"
+EndFPST
+ContextSub2: class "decapitalize-1" 2 2 2 1
+  Class: 99 A B C D E F G H I J K M N O P R S T V W X Y Z Ntilde Zcaron uni0241 uni0255 uni0283 uni0291 uni0294
+  BClass: 99 A B C D E F G H I J K M N O P R S T V W X Y Z Ntilde Zcaron uni0241 uni0255 uni0283 uni0291 uni0294
+  FClass: 99 A B C D E F G H I J K M N O P R S T V W X Y Z Ntilde Zcaron uni0241 uni0255 uni0283 uni0291 uni0294
+ 1 0 0
+  ClsList: 1
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "tolower"
+  ClassNames: "All_Others" "CAP"
+  BClassNames: "All_Others" "CAP"
+  FClassNames: "All_Others" "CAP"
+EndFPST
+ContextSub2: class "vowel-to-mark-1" 3 3 3 1
+  Class: 66 b c d f g h j k m n p r s t v w x y z ntilde scaron zcaron uni0242
+  Class: 7 a e i o
+  BClass: 66 b c d f g h j k m n p r s t v w x y z ntilde scaron zcaron uni0242
+  BClass: 7 a e i o
+  FClass: 66 b c d f g h j k m n p r s t v w x y z ntilde scaron zcaron uni0242
+  FClass: 7 a e i o
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "vowel"
+  ClassNames: "All_Others" "C" "V"
+  BClassNames: "All_Others" "C" "V"
+  FClassNames: "All_Others" "C" "V"
+EndFPST
+ChainSub2: class "calt-highlow-1" 4 4 4 28
+  Class: 116 b.medi b.fina d.init f.init g.init h.medi h.fina n.medi p.init v.medi v.fina x.medi x.fina uni0242.medi uni0242.fina
+  Class: 133 c.fina d.fina f.fina j.medi j.fina k.medi k.fina p.medi p.fina r.medi r.fina t.fina w.medi w.fina scaron.medi scaron.fina zcaron.fina
+  Class: 140 c.medi d.medi f.medi g.medi g.fina m.medi m.fina n.fina s.medi s.fina t.medi y.medi y.fina z.medi z.fina ntilde.medi ntilde.fina zcaron.medi
+  BClass: 116 b.medi b.fina d.init f.init g.init h.medi h.fina n.medi p.init v.medi v.fina x.medi x.fina uni0242.medi uni0242.fina
+  BClass: 133 c.fina d.fina f.fina j.medi j.fina k.medi k.fina p.medi p.fina r.medi r.fina t.fina w.medi w.fina scaron.medi scaron.fina zcaron.fina
+  BClass: 140 c.medi d.medi f.medi g.medi g.fina m.medi m.fina n.fina s.medi s.fina t.medi y.medi y.fina z.medi z.fina ntilde.medi ntilde.fina zcaron.medi
+  FClass: 116 b.medi b.fina d.init f.init g.init h.medi h.fina n.medi p.init v.medi v.fina x.medi x.fina uni0242.medi uni0242.fina
+  FClass: 133 c.fina d.fina f.fina j.medi j.fina k.medi k.fina p.medi p.fina r.medi r.fina t.fina w.medi w.fina scaron.medi scaron.fina zcaron.fina
+  FClass: 140 c.medi d.medi f.medi g.medi g.fina m.medi m.fina n.fina s.medi s.fina t.medi y.medi y.fina z.medi z.fina ntilde.medi ntilde.fina zcaron.medi
+ 7 0 0
+  ClsList: 1 3 3 3 3 3 3
+  BClsList:
+  FClsList:
+ 0
+ 6 0 1
+  ClsList: 1 3 3 3 3 3
+  BClsList:
+  FClsList: 1
+ 0
+ 7 0 0
+  ClsList: 1 3 3 3 3 3 2
+  BClsList:
+  FClsList:
+ 7
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "lo"
+  SeqLookup: 4 "lo"
+  SeqLookup: 5 "lo"
+  SeqLookup: 6 "ltm"
+ 6 0 0
+  ClsList: 1 3 3 3 3 3
+  BClsList:
+  FClsList:
+ 6
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "lo"
+  SeqLookup: 4 "lo"
+  SeqLookup: 5 "lo"
+ 5 0 1
+  ClsList: 1 3 3 3 3
+  BClsList:
+  FClsList: 1
+ 0
+ 6 0 0
+  ClsList: 1 3 3 3 3 2
+  BClsList:
+  FClsList:
+ 6
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "lo"
+  SeqLookup: 4 "lo"
+  SeqLookup: 5 "ltm"
+ 5 0 0
+  ClsList: 1 3 3 3 3
+  BClsList:
+  FClsList:
+ 5
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "lo"
+  SeqLookup: 4 "lo"
+ 4 0 1
+  ClsList: 1 3 3 3
+  BClsList:
+  FClsList: 1
+ 0
+ 5 0 0
+  ClsList: 1 3 3 3 2
+  BClsList:
+  FClsList:
+ 5
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "lo"
+  SeqLookup: 4 "ltm"
+ 4 0 0
+  ClsList: 1 3 3 3
+  BClsList:
+  FClsList:
+ 4
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "lo"
+ 3 0 1
+  ClsList: 1 3 3
+  BClsList:
+  FClsList: 1
+ 0
+ 4 0 0
+  ClsList: 1 3 3 2
+  BClsList:
+  FClsList:
+ 4
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+  SeqLookup: 3 "ltm"
+ 3 0 0
+  ClsList: 1 3 3
+  BClsList:
+  FClsList:
+ 3
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "lo"
+ 2 0 1
+  ClsList: 1 3
+  BClsList:
+  FClsList: 1
+ 0
+ 3 0 0
+  ClsList: 1 3 2
+  BClsList:
+  FClsList:
+ 3
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+  SeqLookup: 2 "ltm"
+ 2 0 0
+  ClsList: 1 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "lo"
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "ltm"
+ 5 0 0
+  ClsList: 2 3 3 3 3
+  BClsList:
+  FClsList:
+ 0
+ 4 0 1
+  ClsList: 2 3 3 3
+  BClsList:
+  FClsList: 2
+ 0
+ 5 0 0
+  ClsList: 2 3 3 3 1
+  BClsList:
+  FClsList:
+ 5
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "hi"
+  SeqLookup: 2 "hi"
+  SeqLookup: 3 "hi"
+  SeqLookup: 4 "htm"
+ 4 0 0
+  ClsList: 2 3 3 3
+  BClsList:
+  FClsList:
+ 4
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "hi"
+  SeqLookup: 2 "hi"
+  SeqLookup: 3 "hi"
+ 3 0 1
+  ClsList: 2 3 3
+  BClsList:
+  FClsList: 2
+ 0
+ 4 0 0
+  ClsList: 2 3 3 1
+  BClsList:
+  FClsList:
+ 4
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "hi"
+  SeqLookup: 2 "hi"
+  SeqLookup: 3 "htm"
+ 3 0 0
+  ClsList: 2 3 3
+  BClsList:
+  FClsList:
+ 3
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "hi"
+  SeqLookup: 2 "hi"
+ 2 0 1
+  ClsList: 2 3
+  BClsList:
+  FClsList: 2
+ 0
+ 3 0 0
+  ClsList: 2 3 1
+  BClsList:
+  FClsList:
+ 3
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "hi"
+  SeqLookup: 2 "htm"
+ 2 0 0
+  ClsList: 2 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "hi"
+ 2 0 0
+  ClsList: 2 1
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "htm"
+  ClassNames: "All_Others" "HL" "LH" "O"
+  BClassNames: "All_Others" "HL" "LH" "O"
+  FClassNames: "All_Others" "HL" "LH" "O"
+EndFPST
+ContextSub2: class "calt-init-1" 7 7 7 5
+  Class: 47 d.init f.init g.init p.init t.init uni0242.init
+  Class: 13 j.init w.init
+  Class: 47 b.medi h.medi n.medi v.medi x.medi uni0242.medi
+  Class: 39 j.medi k.medi r.medi w.medi scaron.medi
+  Class: 20 b.fina h.fina v.fina
+  Class: 44 j.fina r.fina w.fina scaron.fina zcaron.fina
+  BClass: 47 d.init f.init g.init p.init t.init uni0242.init
+  BClass: 13 j.init w.init
+  BClass: 47 b.medi h.medi n.medi v.medi x.medi uni0242.medi
+  BClass: 39 j.medi k.medi r.medi w.medi scaron.medi
+  BClass: 20 b.fina h.fina v.fina
+  BClass: 44 j.fina r.fina w.fina scaron.fina zcaron.fina
+  FClass: 47 d.init f.init g.init p.init t.init uni0242.init
+  FClass: 13 j.init w.init
+  FClass: 47 b.medi h.medi n.medi v.medi x.medi uni0242.medi
+  FClass: 39 j.medi k.medi r.medi w.medi scaron.medi
+  FClass: 20 b.fina h.fina v.fina
+  FClass: 44 j.fina r.fina w.fina scaron.fina zcaron.fina
+ 2 0 0
+  ClsList: 1 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "toh"
+  SeqLookup: 1 "fml"
+ 2 0 0
+  ClsList: 1 4
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "ltm"
+ 2 0 0
+  ClsList: 1 6
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mtl"
+  SeqLookup: 1 "ltm"
+ 2 0 0
+  ClsList: 2 3
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "htm"
+ 2 0 0
+  ClsList: 2 5
+  BClsList:
+  FClsList:
+ 2
+  SeqLookup: 0 "mth"
+  SeqLookup: 1 "htm"
+  ClassNames: "All_Others" "IL" "IH" "MHL" "MLH" "FHL" "FLH"
+  BClassNames: "All_Others" "IL" "IH" "MHL" "MLH" "FHL" "FLH"
+  FClassNames: "All_Others" "IL" "IH" "MHL" "MLH" "FHL" "FLH"
+EndFPST
+ChainSub2: class "calt-1" 3 3 3 3
+  Class: 66 b c d f g h j k m n p r s t v w x y z ntilde scaron zcaron uni0242
+  Class: 363 b.init b.medi c.init c.medi d.init d.medi f.init f.medi g.init g.medi h.init h.medi j.init j.medi k.init k.medi m.init m.medi n.init n.medi p.init p.medi r.init r.medi s.init s.medi t.init t.medi v.init v.medi w.init w.medi y.init y.medi z.init z.medi x.init x.medi ntilde.init ntilde.medi scaron.init scaron.medi zcaron.init zcaron.medi uni0242.init uni0242.medi
+  BClass: 66 b c d f g h j k m n p r s t v w x y z ntilde scaron zcaron uni0242
+  BClass: 363 b.init b.medi c.init c.medi d.init d.medi f.init f.medi g.init g.medi h.init h.medi j.init j.medi k.init k.medi m.init m.medi n.init n.medi p.init p.medi r.init r.medi s.init s.medi t.init t.medi v.init v.medi w.init w.medi y.init y.medi z.init z.medi x.init x.medi ntilde.init ntilde.medi scaron.init scaron.medi zcaron.init zcaron.medi uni0242.init uni0242.medi
+  FClass: 66 b c d f g h j k m n p r s t v w x y z ntilde scaron zcaron uni0242
+  FClass: 363 b.init b.medi c.init c.medi d.init d.medi f.init f.medi g.init g.medi h.init h.medi j.init j.medi k.init k.medi m.init m.medi n.init n.medi p.init p.medi r.init r.medi s.init s.medi t.init t.medi v.init v.medi w.init w.medi y.init y.medi z.init z.medi x.init x.medi ntilde.init ntilde.medi scaron.init scaron.medi zcaron.init zcaron.medi uni0242.init uni0242.medi
+ 1 1 1
+  ClsList: 1
+  BClsList: 2
+  FClsList: 1
+ 1
+  SeqLookup: 0 "medi"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "init"
+ 1 1 0
+  ClsList: 1
+  BClsList: 2
+  FClsList:
+ 1
+  SeqLookup: 0 "fina"
+  ClassNames: "All_Others" "C" "M"
+  BClassNames: "All_Others" "C" "M"
+  FClassNames: "All_Others" "C" "M"
+EndFPST
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2024, Mira, the Multiverse Probe (https://twitter.com/miraprobemv),+AAoA-with Reserved Font Name ProbingVahaarijaaSans.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 65472 32 8
+BeginPrivate: 0
+EndPrivate
+Grid
+782 0 m 29
+ 474 442 l 1053
+-154 -220 m 1
+ 158 -220 l 1049
+-154 661 m 1
+ 158 661 l 1049
+-46 -70 m 25
+ 750 -70 l 1049
+-46 403 m 25
+ 770 403 l 1049
+-52 181 m 25
+ 764 181 l 1049
+-52 259 m 25
+ 764 259 l 1049
+-146 220 m 1
+ 930 220 l 1025
+-156 0 m 25
+ 152 442 l 1049
+404 0 m 25
+ 712 442 l 1049
+-140 984 m 9
+ 918 984 l 1049
+-140 804 m 9
+ 918 804 l 1049
+-46 481 m 25
+ 770 481 l 1049
+-146 0 m 25
+ 930 0 l 1049
+-140 442 m 9
+ 918 442 l 1049
+-146 -430 m 25
+ 930 -430 l 1049
+-46 -250 m 25
+ 750 -250 l 1049
+-46 -40 m 25
+ 750 -40 l 1049
+-44 680 m 25
+ 770 680 l 1049
+EndSplineSet
+TeXData: 1 0 0 337920 168960 112640 277504 1048576 112640 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "below" "mark-1" "above" "mark-1" "cursive""" 
+EndSplineFont

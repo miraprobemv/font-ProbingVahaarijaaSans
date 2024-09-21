@@ -1,0 +1,24 @@
+StartChar: H
+Encoding: 72 72 1
+Width: 300
+Flags: W
+HStem: 209 78<112 188>
+VStem: 112 76<209 287>
+LayerCount: 2
+Back
+SplineSet
+118 -75 m 28
+ 204 -75 491 -75 530 -75 c 1028
+239 -221 m 3
+ 160 -221 111 -144 111 -65 c 3
+ 111 12.0068359375 165 75 230 75 c 3
+ 297 75 366 19 366 -59 c 3
+ 366 -147 327 -221 239 -221 c 3
+0 75 m 24
+ 86 75 191 75 230 75 c 1024
+EndSplineSet
+Fore
+Refer: 181 65 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "tolower-1" h
+EndChar

@@ -1,0 +1,42 @@
+StartChar: e
+Encoding: 101 101 36
+Width: 500
+Flags: W
+HStem: -33 66<283 427> 95 55<223 283> 414 66<178.963 318.168>
+VStem: 71 60<211.377 365.041> 223 60<33 150> 369 60<207.63 364.09>
+AnchorPoint: "below" 259 -40 basechar 0
+AnchorPoint: "above" 250 481 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+248 480 m 0
+ 337 480 429 416 429 290 c 0
+ 429 148 334 95 250 95 c 0
+ 165 95 71 159 71 286 c 0
+ 71 424 170 480 248 480 c 0
+369 290 m 0
+ 369 359 322 414 247 414 c 0
+ 184 414 131 368 131 286 c 0
+ 131 211 186 161 251 161 c 0
+ 322 161 369 203 369 290 c 0
+223 150 m 1
+ 283 150 l 1
+ 283 33 l 1
+ 427 33 l 1
+ 427 -33 l 1
+ 223 -33 l 1
+ 223 150 l 1
+185 535 m 1
+ 142 535 l 1
+ 142 545 l 1
+ 262 661 l 1
+ 348 661 l 17
+ 348 642 l 1
+ 185 535 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "long-direct-1" e.mark.long
+Substitution2: "long-base-1" uni0242
+MultipleSubs2: "break-bowel-1" uni0242 e.mark
+Substitution2: "vowel-1" e.mark
+EndChar
