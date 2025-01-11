@@ -5,7 +5,7 @@ FamilyName: ProbingVahaarijaaSans
 Weight: Regular
 Copyright: Copyright (c) 2024, Mira, the Multiverse Probe
 UComments: "2024-3-2: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 20241231.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1709390350
-ModificationTime: 1712453150
+ModificationTime: 1735606043
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -41,6 +41,8 @@ HheadAscent: 200
 HheadAOffset: 1
 HheadDescent: -200
 HheadDOffset: 1
+OS2CapHeight: 680
+OS2XHeight: 481
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "tolower" { "tolower-1"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 5 0 0 "decapitalize" { "decapitalize-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
